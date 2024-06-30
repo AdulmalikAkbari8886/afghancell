@@ -1,0 +1,2 @@
+# afghancell
+afghancell.af
